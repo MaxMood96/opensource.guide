@@ -32,7 +32,7 @@ Ketika Anda [membuat proyek baru](https://help.github.com/articles/creating-a-ne
 
 ![create repository](/assets/images/legal/repo-create-name.png)
 
-**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
+**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
 
 Jika Anda menginginkan orang lain untuk bisa menggunakan, menyalin, memodifikasi, atau berkontribusi balik pada proyek Anda, Anda perlu menyertakan sebuah lisensi open source. Sebagai contoh, seseorang tidak dapat menggunakan sembarang bagian dari proyek GitHub Anda pada kode mereka secara legal, meskipun bersifat publik, kecuali Anda memberikan ijin kepada mereka.
 
@@ -98,7 +98,7 @@ Juga, dengan menambahkan "pekerjaan administratif" yang dipercaya oleh sebagian 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Kami telah menghilangkan CLA untuk Node.js. Dengan melakukan hal ini akan mengurangi hambatan bagi kontributor Node.js untuk bergabung sehingga memperluas area basis kontributor.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
