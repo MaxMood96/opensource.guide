@@ -32,7 +32,7 @@ related:
 
 ![Δημιουργία αποθετηρίου](/assets/images/legal/repo-create-name.png)
 
-**Η δημοσιοποίηση του έργου σας στο GitHub δεν είναι το ίδιο με την αδειοδότηση του έργου σας.** Τα δημόσια πρότζεκτ καλύπτονται από τους [Όρους χρήσης του GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), οι οποίοι επιτρέπουν σε άλλους να βλέπουν και να διαιρούν το πρότζεκτ σας, αλλά η εργασία σας δεν συνοδεύεται από άλλα δικαιώματα.
+**Η δημοσιοποίηση του έργου σας στο GitHub δεν είναι το ίδιο με την αδειοδότηση του έργου σας.** Τα δημόσια πρότζεκτ καλύπτονται από τους [Όρους χρήσης του GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), οι οποίοι επιτρέπουν σε άλλους να βλέπουν και να διαιρούν το πρότζεκτ σας, αλλά η εργασία σας δεν συνοδεύεται από άλλα δικαιώματα.
 
 Αν θέλετε να χρησιμοποιούν, να διανέμουν, να τροποποιούν ή να συνεισφέρουν άλλοι στο πρότζεκτ σας, πρέπει να συμπεριλάβετε μια άδεια χρήσης ανοικτού κώδικα. Για παράδειγμα, κάποιος δεν μπορεί νομικά να χρησιμοποιήσει οποιοδήποτε μέρος του έργου σας στο GitHub στον κώδικά του, ακόμη και αν είναι δημόσιο, εκτός αν του δώσετε ρητά το δικαίωμα να το κάνει.
 
@@ -98,7 +98,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Εξαλείψαμε το CLA για το Node.js. Με αυτόν τον τρόπο μειώνουμε το εμπόδιο εισόδου για τους συνεισφέροντες του Node.js, διευρύνοντας έτσι τη βάση των συνεισφερόντων.
   <p markdown="1" class="pquote-credit">
-- @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+- @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

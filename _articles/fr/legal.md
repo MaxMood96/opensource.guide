@@ -32,7 +32,7 @@ Lorsque vous [créez un nouveau projet](https://help.github.com/articles/creatin
 
 ![Créer un référentiel](/assets/images/legal/repo-create-name.png)
 
-**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
+**Rendre public votre projet GitHub est différent d'appliquer une licence à votre projet.** Les projets publics sont couverts par les [Conditions d'utilisation de GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ce qui permet aux autres de voir et de forker votre projet, mais par défaut aucune permission ne leur est accordé sur votre travail.
 
 Si vous souhaitez que d'autres personnes utilisent, distribuent, modifient ou contribuent à votre projet, vous devez inclure une licence open source. Par exemple, quelqu'un ne peut légalement utiliser aucune partie de votre projet GitHub dans son code, même s'il est public, à moins que vous ne lui donniez explicitement le droit de le faire.
 
@@ -98,7 +98,7 @@ En outre, en ajoutant de la "paperasse" jugée inutile, difficile à comprendre 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nous avons éliminé le CLA pour Node.js. Cela réduit la barrière à l'entrée pour les contributeurs Node.js, élargissant ainsi la base des contributeurs.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

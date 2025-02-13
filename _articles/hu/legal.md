@@ -32,7 +32,7 @@ Amikor [létrehozol egy új projektet](https://help.github.com/articles/creating
 
 ![Projekt létrehozása](/assets/images/legal/repo-create-name.png)
 
-**A GitHub projekt nyilvánossága nem azonos a projekt licencével!** A publikus projekt fogalma itt van definiálva: [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ami engedélyezi ezek megtekintését, vagy e célból ennek elágaztatását (fork), de más egyebet nem.
+**A GitHub projekt nyilvánossága nem azonos a projekt licencével!** A publikus projekt fogalma itt van definiálva: [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), ami engedélyezi ezek megtekintését, vagy e célból ennek elágaztatását (fork), de más egyebet nem.
 
 Ha azt szeretnéd, hogy mások használhassák, terjesszék, módosítsák vagy hozzájáruljanak a projekthez, meg kell nevezned egy nyílt forráskódú licencet. Például attól, hogy a projekt nyilvános, még senki sem jogosult bármely részének törvényes használatára, kivéve, ha kifejezetten feljogosítod erre a megfelelő licenccel.
 
@@ -98,7 +98,7 @@ Amikor ez olyan "papírmunkát" okoz, amit egyesek szükségtelennek, nehezen é
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Megszüntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködői belépés előtt álló akadályok száma, ezáltal növelve a projektben résztvevők bázisát.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

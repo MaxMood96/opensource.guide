@@ -33,7 +33,7 @@ redirect_from: /zh-tw/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
+**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
 
 如果你們想讓他人使用，複製，修改你們的專案，或者參與貢獻你們的專案，那麼你們的專案就需要包含一個開源許可協議。例如，即使你們的專案是公開的，但沒有你們的授權，一些人是不能合法在他們的程式碼中使用你們GitHub專案中的任何部分。
 
@@ -99,7 +99,7 @@ redirect_from: /zh-tw/legal/
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
     我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

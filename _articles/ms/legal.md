@@ -32,7 +32,7 @@ Bila kamu [create a new project](https://help.github.com/articles/creating-a-new
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Membuat projek GitHub anda umum tidak sama dengan melesenkan projek anda.** Projek awam dilindungi oleh [GitHub's Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang membolehkan orang lain melihat dan melengkapkan projek anda, tetapi pekerjaan anda sebaliknya tidak mempunyai kebenaran.
+**Membuat projek GitHub anda umum tidak sama dengan melesenkan projek anda.** Projek awam dilindungi oleh [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang membolehkan orang lain melihat dan melengkapkan projek anda, tetapi pekerjaan anda sebaliknya tidak mempunyai kebenaran.
 
 Sekiranya anda ingin orang lain menggunakan, menyebarkan, mengubah suai, atau menyumbang kembali ke projek anda, anda perlu memasukkan lesen sumber terbuka. Sebagai contoh, seseorang tidak boleh menggunakan bahagian projek GitHub anda secara sah dalam kod mereka, walaupun secara terbuka, melainkan anda secara jelas memberi mereka hak untuk melakukannya.
 
@@ -98,7 +98,7 @@ Juga, dengan menambahkan "kertas kerja" yang diyakini oleh beberapa orang tidak 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
    Kami telah menghilangkan CLA untuk Node.js. Melakukan ini mengurangkan halangan kemasukan penyumbang Node.js sehingga memperluas pangkalan penyumbang.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
